@@ -1,6 +1,4 @@
-# Chatbot NLTK
-
-On similar lines let's create a very basic chatbot utlising the Python's NLTK library.It's a very simple bot with hardly any cognitive skills,but still a good way to get into NLP and get to know about chatbots.
+![Chatbot-NLTK](https://socialify.git.ci/aryasoni98/Chatbot-NLTK/image?description=1&font=KoHo&language=1&owner=1&pattern=Circuit%20Board&theme=Dark)
 
 ## Pre-requisites
 **NLTK(Natural Language Toolkit)**
